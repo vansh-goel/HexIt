@@ -1,3 +1,4 @@
+import React from "react";
 import ColorBox from "./ColorBox";
 import Input from './Input';
 import { useState } from 'react'
